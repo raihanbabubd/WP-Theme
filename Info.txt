@@ -1,2 +1,12 @@
-Hi
-Coool
+
+README.md
+https://github.com/udacity/ud777-writing-readmes
+
+https://github.com/thoughtbot/factory_bot
+https://github.com/zkat/can.viewify/blob/master/README.md
+https://github.com/udacity/create-your-own-adventure
+
+
+https://help.github.com/en/github/writing-on-github
+
+https://dillinger.io/
